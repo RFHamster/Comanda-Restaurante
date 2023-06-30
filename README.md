@@ -20,7 +20,7 @@ Com o sistema pronto, faltava integrar o mesmo nas telas, assim, criamos as clas
   <img src = "https://user-images.githubusercontent.com/71076681/250202548-a0707d0f-a29f-43bd-a367-91b435901fe0.png" alt = "Catalogo"/>
 </div>
 
-## Catálogo
+## Tela de Pagamento
 
 <div align="center">
     <img src = "https://user-images.githubusercontent.com/71076681/250202935-36cf3fb4-042d-4270-a211-634b48d4aa29.png" alt = "Pagamento"/>
